@@ -1,0 +1,16 @@
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.csproj.AssemblyReference.cache
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\bin\Debug\PatientListAssignment.exe.config
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\bin\Debug\PatientListAssignment.exe
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\bin\Debug\PatientListAssignment.pdb
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.exe
+C:\Users\Akashashok.Thopate\source\repos\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.pdb
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\bin\Debug\PatientListAssignment.exe.config
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\bin\Debug\PatientListAssignment.exe
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\bin\Debug\PatientListAssignment.pdb
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.csproj.AssemblyReference.cache
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.exe
+C:\Users\Akashashok.Thopate\source\PatientListAssignment\PatientListAssignment\obj\Debug\PatientListAssignment.pdb
